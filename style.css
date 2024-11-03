@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: aqua;
+}
+.container {
+    background-color:  rgba(238,174,202,1);
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+}
+h1, h2, h3 {
+    color:#561003;
+}
+.section {
+    margin-bottom: 20px;
+}
+.contact-info {
+    text-align: center;
+}
+.contact-info p {
+    margin: 5px 0;
+}
+.job-title {
+    font-weight: bold;
+}
+ul {
+    padding-left: 20px;
+}
+.contact-info{
+    background-color:rgba(238,174,202,1) ;
+}
+.section{
+    background-color: rgba(238,174,202,1);
+}
